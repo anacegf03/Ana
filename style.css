@@ -1,0 +1,84 @@
+body
+{
+background-image: url("https://media-cldnry.s-nbcnews.com/image/upload/newscms/2018_02/1309137/laptop-coffee-today-180108-tease.jpg");
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: 100% 100%;
+}
+
+.text
+{
+color: #fff
+}
+
+.content-wrapper{
+      width: 50%;
+      margin: 25% 20% 10% 25%;
+  }
+ 
+  .content-wrapper img{
+      width: 100%;
+  }
+ 
+  .text-wrapper{
+      position: relative;
+      margin-top: -52%;
+      margin-right: -56%;
+  }
+ 
+  .text-wrapper h1{
+      text-align: center;
+      color: #000000;
+      font-family: 'lobster', cursive;
+  }
+.dropdown {
+  display: inline-block;
+  position: relative;
+}
+.dropdown-options {
+  display: none;
+  position: absolute;
+  overflow: auto;
+}
+.dropdown:hover .dropdown-options {
+  display: block;
+}
+.menu {
+   background-color: #ffffff;
+   color: white;
+   border: none;
+   padding: 3px 7px;
+}
+table
+{
+ text-align: left;
+ color: #000000;
+ font-family: 'lobster', cursive;
+ font-size: 25;
+}
+a {
+  color:#000000;
+}
+a:visited {
+  color: #000000;
+}
+a:hover {
+  color: #000000;
+}
+a:active {
+  color: #000000;
+}
+
+.SecondaryWeb
+{
+ background-color: white;
+}
+
+.tableSecondary
+{
+text-align: center;
+background-color:white;
+font color = "EDF05F";
+size = "12";
+face = "americantypewriter";
+}
